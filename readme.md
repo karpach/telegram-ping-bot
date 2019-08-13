@@ -15,3 +15,5 @@ The program hides in notification tray, where you can manually close it.
 ![Screenshot1](Screenshots/screenshot1.png)
 
 Use [BotFather](https://telegram.me/botfather) to create a telegram bot, then specify the newly create bot token in config file.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/ag1gnol86q8cg2un?svg=true)](https://ci.appveyor.com/project/karpach/telegram-ping-bot)
